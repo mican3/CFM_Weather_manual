@@ -1,6 +1,7 @@
 ---
 title: 設定
 layout: default
+nav_order: 3
 ---
 # 設定
 
