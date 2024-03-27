@@ -1,3 +1,7 @@
+---
+title: 設定
+layout: default
+---
 # 設定
 
 ## 設定を開く
