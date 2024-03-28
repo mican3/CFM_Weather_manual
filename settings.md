@@ -38,18 +38,18 @@ nav_order: 3
    約24時間ほどの情報を取得できますが、電文が多く発行される場合は、24時間よりも少ない電文しかないこともあります
 
 ## コード の調べ方 (Excelファイルで)
-1. [気象庁防災情報XMLフォーマット　技術資料](https://xml.kishou.go.jp/tec_material.html) 内の 、**コード管理表及び個別コード表** の **個別コード表**　をダウンロードして、展開する
+🅰.  [気象庁防災情報XMLフォーマット　技術資料](https://xml.kishou.go.jp/tec_material.html) 内の 、**コード管理表及び個別コード表** の **個別コード表**　をダウンロードして、展開する
 
 ### 地域コード
-2. 1番の中に含まれる、 **YYYYMMDD_AreaInformationCity-AreaForecastLocalM.xls** (YYYYMMDD には更新日が入る) をExcelで開く
-3. シート "**AreaInformationCity**" で地域名を探す
-4. そのA列の数字が「地域コード」
+1. 🅰 の中に含まれる、 **YYYYMMDD_AreaInformationCity-AreaForecastLocalM.xls** (YYYYMMDD には更新日が入る) をExcelで開く
+2. シート "**AreaInformationCity**" で地域名を探す
+3. そのA列の数字が「地域コード」
 
 ### 津波予報区コード
-2. [気象庁｜津波予報区について](https://www.data.jma.go.jp/eqev/data/joho/t-yohokuinfo.html) から津波予報区を探す
-3. 1番の中に含まれる、 **地震火山関連コード表.xls**  をExcelで開く
-4. シート "**31**" で、2番で特定した津波予報区を探す
-5. そのA列の数字が「津波予報区コード」  
+1. [気象庁｜津波予報区について](https://www.data.jma.go.jp/eqev/data/joho/t-yohokuinfo.html) から津波予報区を探す
+2. 🅰 の中に含まれる、 **地震火山関連コード表.xls**  をExcelで開く
+3. シート "**31**" で、1番で特定した津波予報区を探す
+4. そのA列の数字が「津波予報区コード」  
 **注意: 津波予報区のコードには対応していますが、結合表現 領域表現 には対応していません**
 
 ## 地域コード・気象台 の調べ方 (気象庁ホームページで) 
