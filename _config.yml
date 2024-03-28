@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://mican3.github.io/CFM_Weather_manual/
 
+lang: ja
+
 search_enabled: false
 
 # Footer content
