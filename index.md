@@ -11,7 +11,7 @@ CFM Weather は、コミュニティFM向けの災害情報を収集する、Win
 ## 対応する電文
 「随時」と「地震火山」のAtomフィードで配信される、以下の電文を取得します。 
 それぞれのフィードには、「長期フィード」と、「高頻度フィード」の2種類があり、設定で切り替えることができます。
-- 随時　　　[高頻度フィード](https://www.data.jma.go.jp/developer/xml/feed/extra.xml)　[長期フィード](https://www.data.jma.go.jp/developer/xml/feed/extra_l.xml)
+- 随時　[高頻度フィード](https://www.data.jma.go.jp/developer/xml/feed/extra.xml)　[長期フィード](https://www.data.jma.go.jp/developer/xml/feed/extra_l.xml)
     - 気象警報・注意報（Ｈ２７）
     - 熱中症警戒アラート
 - 地震火山　[高頻度フィード](https://www.data.jma.go.jp/developer/xml/feed/eqvol.xml)　[長期フィード](https://www.data.jma.go.jp/developer/xml/feed/eqvol_l.xml)
