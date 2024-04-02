@@ -14,7 +14,7 @@ nav_order: 2
 
 ## 警告 2
 インストーラが起動する前に、以下のような警告が出てくる場合があります。  
-この場合は、「詳細情報」をクリックすると、「実行」ボタンが現れるので、それをクリックしてください。
+この場合は、「詳細情報」をクリックすると、「実行」ボタンが現れるので、それをクリックしてください。  
 ![image](https://github.com/mican3/CFM_Weather_manual/assets/81346541/83dafb83-9337-49e1-9ed5-75f3fcda8181)  
 ![image](https://github.com/mican3/CFM_Weather_manual/assets/81346541/2f2fce49-17df-4d6f-a33d-c6aee804e5c9)
 
